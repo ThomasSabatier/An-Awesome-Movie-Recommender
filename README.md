@@ -1,6 +1,6 @@
 #                                                 MOVIE RECOMMENDATION
 
-![image](https://https://github.com/ThomasSabatier/An-Awesome-Movie-Recommender/tree/main/streamlit_app/assets/godzilla_criterion.png?raw=true)
+![image_name](./streamlit_app/assets/godzilla_criterion.png?raw=true)
 
 ## Context
 
