@@ -1,6 +1,6 @@
 #                                                 MOVIE RECOMMENDATION
 
-![image](https://user-images.githubusercontent.com/125690999/226979070-df319128-929f-475a-ab18-eb7922e89b31.png)
+![image](https://github.com/ThomasSabatier/An-Awesome-Movie-Recommender/streamlit_app/assets/godzilla_criterion.png?raw=true)
 
 ## Context
 
@@ -9,17 +9,6 @@ We have chosen to develop a movie recommendation system based on data sets from 
 
 ## Objective
 The goal of this project is to **build a system that will recommend to a specific users the movies he might like** based on the user history, personal preferences and similarities with other users.
-
-
-## Contributors
-This project was developed by the following team :
-
-- Thomas Sabatier ([GitHub](https://github.com/ThomasSabatier) / [LinkedIn](https://www.linkedin.com/in/thomas-sabatier0/))
-- Michèle Dubuisson ([GitHub](https://github.com/MicDfr) / [LinkedIn](https://www.linkedin.com/in/micheledubuisson/))
-- Antoine Sibille ([GitHub](https://github.com/asib-fr) / [LinkedIn](https://www.linkedin.com/in/antoinesibille/))
-
-Supervised by:
-Victor (DataScientest)
 
 ## Datasets
 
