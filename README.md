@@ -13,8 +13,8 @@ The goal of this project is to **build an (awesome) hybrid recommender system* t
 
 ## Datasets
 
-IMDb datasets : https://www.imdb.com/interfaces/
-Movie Lens datasets: https://grouplens.org/datasets/movielens/20m/
+- IMDb datasets : https://www.imdb.com/interfaces/
+- Movie Lens datasets: https://grouplens.org/datasets/movielens/20m/
 
 ## Project
 
